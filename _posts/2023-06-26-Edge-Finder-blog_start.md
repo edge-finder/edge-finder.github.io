@@ -1,7 +1,7 @@
 ---
 title: Edge-Finder 블로그를 시작하며
 author: edge-finder
-date: 2023-06-26 20:41:00 +0800
+date: 2023-06-25 20:41:00 +0900
 categories: [introduction]
 tags: [수익화, 블로그, 사이드 프로젝트, 경제적 자유, edge]
 pin: false
