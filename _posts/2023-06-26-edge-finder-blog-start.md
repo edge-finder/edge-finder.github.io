@@ -10,8 +10,6 @@ mermaid: true
 toc: true
 ---
 
-# Edge-Finder 블로그를 시작하며
-
 # 서론
 
 `Edge`란 무엇인가?
