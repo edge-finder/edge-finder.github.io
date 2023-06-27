@@ -1,7 +1,7 @@
 ---
 title: 19년간 62개의 사이드 프로젝트를 만든 개발자, Josh Pigford 이야기
 author: edge finder
-date: 2023-06-65 23:20:00 +0900
+date: 2023-06-26 23:20:00 +0900
 categories: [수익화 사례, 사이드 프로젝트]
 tags: [수익화, 사이드 프로젝트, Josh Pigford]
 pin: false
