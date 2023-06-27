@@ -21,7 +21,7 @@ toc: true
 찾아보니 참 매력적인 사람이다. 이 사람의 활동을 정리하면서 나도 많이 얻어갈 수 있으면 좋겠다.
 
 
-# Josh Pigford는 누구인가
+## Josh Pigford는 누구인가
 
 Josh Pigford는 2003년부터 2022년까지 19년간 무려 62개의 사이드 프로젝트를 계속해서 진행해온 연쇄창업가다. 보면 이상한 웹사이트들을 모은 링크 서비스라던지, amazon affiliate site(쿠팡 파트너스 같은 제휴 마케팅)라던지, 택배 추적 사이트나 교육 사이트 등 굉장히 다양한 분야에 걸쳐 있다.
 
@@ -30,11 +30,11 @@ Josh Pigford는 2003년부터 2022년까지 19년간 무려 62개의 사이드 �
 그리고 역시나 될성부를 나무는 떡잎부터 알아볼 수 있다고, 어렸을 때부터 케익이나 레고 만들어서 팔고 마당 잔디깎이도 하면서 돈을 벌었다고 한다.
 
 
-# 진행했던 프로젝트들
+## 진행했던 프로젝트들
 
 정리해보니 정말 다양한 프로젝트들을 해왔더라. 활발히 할 때는 1년에 10개가 넘는 프로젝트를 진행하기도 했다. 대단함.
 
-## ReallyDumbStuff (2003) & ReallyFunArcade (2003)
+### ReallyDumbStuff (2003) & ReallyFunArcade (2003)
 
 웃긴 이상한 것들 링크 모아놓는 사이트 & 플래시 게임 링크 모아놓는 사이트.
 
@@ -42,33 +42,33 @@ ReallyDumbStuff가 첫 프로젝트로, 이걸로 처음 PHP 독학했다 함.
 
 ReallyFunArcade는 시작한지 1년 뒤 $4,500에 판매(첫 판매)
 
-## Indie Riot (2003)
+### Indie Riot (2003)
 
 음악가들과 예술가들의 온라인 커뮤니티. 본인이 음악 리뷰를 하려고 만들었는데, 하다가 질려서 그만둠
 
-## Automatik studios (2003)
+### Automatik studios (2003)
 
 직접 만든 웹 프리랜서 컨설팅 회사. 계속 컨설팅 회사로 유지한 건 아니고, 나중에는 Sabotage Media라는 회사로 개명해서 이후 Josh Pigford의 모든 프로젝트들 매출을 여기로 넣는 어찌 보면 지주회사? 페이퍼 컴퍼니? 같은 역할을 한듯.
 
-## Tutorial Outpost (2003)
+### Tutorial Outpost (2003)
 
 디자인 튜토리얼 관련 링크를 모아놓은 사이트. 6년 뒤에 $19,000에 판매
 
 이런 링크 모아놓는 사이트가 생각보다 판매가 되긴 했나보다. 신기함.
 
-## 12개의 Amazon affiliate site (2004)
+### 12개의 Amazon affiliate site (2004)
 
 스크래핑 기술과 API를 활용해서 아마존 제휴 마케팅 사이트들을 만들어서 운영했다 중단했다고 한다. 나중에는 컨텐츠도 넣고, SEO도 적용해 creative common content도 넣고 광고 넣고 해봤는데, *“Guys. Affiliate revenue. You guessed it.”*라는 말을 설명에 적어놓은 걸 보니 그다지 돈이 되지는 않았나보다.
 
-## TheAppleBlog (2004)
+### TheAppleBlog (2004)
 
 Apple 제품 및 기술 리뷰 사이트. 그 당시 상당한 작가들이 활동했던 거 같음. 그 시기에 Apple에서도 행사에 초대해주고 Apple 관련 주요 웹사이트로 인정해줬다는듯. 4년 후 GigaOm이라는 회사에 $75,000 가격에 인수됨. 와우. *“One of the first things that really took off for me.”*라는 설명을 적은 걸 보니 본인의 커리어에서도 꽤나 인상 깊었나보다.
 
-## MedicineDB & Survive The War & First Aid Support (2005)
+### MedicineDB & Survive The War & First Aid Support (2005)
 
 SEO + 광고 및 제휴마케팅 사이트. 이후 운영 중단
 
-## [CodePaste.net](http://CodePaste.net) & The File Bin & MyMegaFile & Doinko & 26Faves (2005)
+### [CodePaste.net](http://CodePaste.net) & The File Bin & MyMegaFile & Doinko & 26Faves (2005)
 
 - [CodePaste.net](http://CodePaste.net) : 코드 공유 사이트
 - The File Bin : 파일 공유 및 이미지 호스팅 사이트
@@ -78,25 +78,25 @@ SEO + 광고 및 제휴마케팅 사이트. 이후 운영 중단
 
 26Faves는 대체 무슨 서비스람?ㅋㅋ 2005년에는 뭔가를 공유하는 서비스에 상당히 꽂혀있던 것 같다. 모두 이후 운영 중단.
 
-## Brush Find (2005)
+### Brush Find (2005)
 
 포토샵 브러쉬 모음 사이트. 1년 뒤 $700에 판매
 
-## Statblox (2006)
+### Statblox (2006)
 
 웹 통계 및 방문 수 기록 서비스. 운영 중단
 
-## Adregate (2006)
+### Adregate (2006)
 
 광고 관리 플랫폼. 출시하기 전 $10,000에 판매.
 
 해당 플랫폼을 개발하는 동안 구글이 자체 광고 관리 플랫폼을 출시해서, 결국 이에 신경이 쓰여서 출시하지 않고 그냥 판매하기로 결정. 그리고 이 1만 달러에 달하는 판매 대금은 당시 이상한 회계사를 쓰는 바람에 국세청 고지서를 납부하는 데에다가 다 쓰게 됨 (눙물ㅠ)
 
-## Fugitive Toys (2006)
+### Fugitive Toys (2006)
 
 현대식 피규어 판매점. 3년 뒤 $26,000에 판매. 당시 아내와 같이 일했는데, 피규어를 아파트 천장까지 쌓아둘 정도였다고. 제 인생에서 가장 재미있는 사업 중 하나였다고 한다. 다양한 Product Hunt(제품이나 팟캐스트 같은 것들이 새로 나오면 소개해주는 큐레이션? 같은) 서비스를 만든 Mubashar Iqbal라는 사람([홈페이지](https://mubs.me/))이 공동창업자였음. 이 사람도 보니까 엄청 많은 프로젝트를 했던 사람이네. 나중에 이 사람도 정리해봐야겠다.
 
-## **Daily Translation & BanThat & Arcaplay & MyPollCreator & MadLibCreator & MyQuizCreator & Fleckspot (2006)**
+### Daily Translation & BanThat & Arcaplay & MyPollCreator & MadLibCreator & MyQuizCreator & Fleckspot (2006)
 
 - Daily Translation : 이상한 단어를 추측하는 게임. 1년 후 $200에 판매.
 - BanThat : 사람들이 싫어하는 것을 주제로 한 커뮤니티. 참 별로인 아이디어였다고... 1년 후 $2,000에 판매.
@@ -106,59 +106,59 @@ SEO + 광고 및 제휴마케팅 사이트. 이후 운영 중단
 - MyQuizCreator : 퀴즈 생성 도구. 운영 중단.
 - Fleckspot : 웹 호스팅 회사. 웹 호스팅 회사라기보다 웹 호스팅 리셀러였다고 한다. 운영 중단.
 
-## **TrackThePack (2006)**
+### TrackThePack (2006)
 
 배송 추적 앱. 첫 SaaS 제품이었고, Fugitive Toys를 운영하면서 만들었다고 한다. iPhone을 위한 첫 번째 배송 추적 앱 중 하나였다고 함. 처음에는 $11,000에 판매하기로 했으나 막판에 마음이 바뀌어 돈을 돌려주고 운영 중단. 이 앱을 두 배로 키우려는 계획이 있었지만 결국 아무것도 하지 않았다는데, 지금 와서 보니 판매했어야 했다고.
 
-## **Designerside (2006)**
+### Designerside (2006)
 
 창작 커뮤니티이자 디자인 판매점(graphic asset store라는데 정확히 뭐라고 번역해야 할지 모르겠음). 1년 후 $975에 판매됨.
 
-## **ColourMod (2006)**
+### ColourMod (2006)
 
 DHTML/JS 색상 선택기와 OS X 위젯. 1년 후 $3,150에 판매. $3,000에 사서 뭔가 더 하려고 했던 모양인데, 재미 없어져서 $150 이익 남기고 팔았다고 함.
 
-## **Sitethrive (2006)**
+### Sitethrive (2006)
 
 HTML/CSS 템플릿 구축 서비스. 1년 후 $800에 판매됨. 페이지당 $139 가격이었다고.
 
-## **Superior Mint (2007)**
+### Superior Mint (2007)
 
 동전 수집가들을 위한 배송대행 사이트. 운영 중단. 동전 1개를 팔았다는 설명이 좀 웃김ㅋㅋ
 
-## **Imgry (2007)**
+### Imgry (2007)
 
 Photoshop 튜토리얼. 이 서비스는 링크 모음이 아닌, Josh Pigford와 다른 사람들이 실제 튜토리얼을 제작했었다고 한다. 운영 중단.
 
-## **Decomodo (2007)**
+### Decomodo (2007)
 
 멋진 물건들 소개하는 블로그. 1년 후 $1,000에 판매됨.
 
-## **PugSpot (2007)**
+### PugSpot (2007)
 
 퍼그 견주들을 위한 온라인 커뮤니티. 이 커뮤니티를 운영하며 Ruby/Rails를 독학했다고 함. (당시 Josh는 3마리 퍼그를 키웠다고) 가장 인기 있을 때는 퍼그 소유자를 위한 가장 인기 있는 온라인 커뮤니티 중 하나였다고 한다. 한 번은 달력을 제작하기도 했다고 함. 10년 후 $5,000에 판매.
 
-## **TechUniversity (2010)**
+### TechUniversity (2010)
 
 Mac 비디오 튜토리얼. Mac에서 앱을 어떻게 사용하는지에 대한 수십 개의 고품질 비디오를 제작했다고 한다. 정말 자랑스러웠지만 성장이 없어서 운영 중단.
 
-## **Critterly (2010)**
+### Critterly (2010)
 
 애완 동물 관리 앱. 1년 후 $1,650에 판매됨. 결제 고객이 한 명도 없었던 SaaS 앱. 그러나 로고가 정말 멋졌다고 한다.
 
-## **PopSurvey (2011)**
+### PopSurvey (2011)
 
 설문조사 앱. Grasshopper(전화 서비스)의 공동 창업자들인 Siamak Taghaddos와 David Hauser를 위한 클라이언트 프로젝트로 시작했다고 함. Josh Pigford는 공동 창업자/CEO 역할을 맡게 됨. 이 제품을 위해 SaaS 분석이 필요했고, 이로 인해 Baremetrics를 만들게 됨. 3년 후 매각. 다만 이 매각으부터 이익을 얻지는 못했다고 함.
 
-## **Deck Foundry (2012)**
+### Deck Foundry (2012)
 
 발표 프레젠테이션 디자인 서비스. David Hauser와 공동 창업. 서비스 중단. 아마도 2-3개 정도 팔았을 거라고 함.
 
-## **Temper (2013)**
+### Temper (2013)
 
 고객 만족도 설문 앱. 2014년에 PopSurvey의 일부로 판매됨. PopSurvey 엔티티의 일부였다고 함.
 
-## Baremetrics (2013-2020)
+### Baremetrics (2013-2020)
 
 Josh Pigford가 진행한 가장 성공적인 프로젝트 중 하나는 Baremetrics라는 business insight SaaS 서비스다. 여러가지 매출 지표들을 기반으로 인사이트를 제공하고 성장할 수 있도록 도움을 제공하는 방식이다.
 
@@ -168,7 +168,7 @@ Baremetrics는 이제 매년 수백만 달러의 매출을 올리고 있다고 �
 
 Baremetrics를 매각하며 쓴 글을 읽어보면 사업을 키운 후 운영할 때 생각보다 그렇게 행복하지 않았다고 한다. 오히려 새로운 사업들을 구상하고 만들어나가는 과정이 더 좋다는듯. 과거 누군가 본인을 “Starter”라고 말해줬는데, 이게 되게 본인에게 와닿았다고 한다. 본인은 확실히 뭔가를 ‘시작’하는 일을 사랑한다고. 초기 단계에서 뭔가를 만들어나가며 창의력이 막 샘솟는 과정에서 본인은 에너지를 많이 얻는다고 한다. 그런데 정작 Baremetrics를 진행하면서 사업이 커지니까 그런 것을 느낄 수가 없어서 아쉬웠던 모양. 그래서 Baremetrics는 원래 받을 수 있는 인수금액보다 더 싸게 딜을 해서 매각했다고 한다. 보통 인수가 완료되면 창업자는 그 회사에 몇 년 정도 이사회 소속으로 묶여서 그 후 어느 정도 성과를 달성해야 본인에게 떨어지는 남은 금액을 모두 받을 수 있게 된다. 그런데 Josh는 그렇게 남은 돈을 받으려고 이 일에 몇 년간 더 묶여 있는게 ‘영혼이 부서지는’ 것 같을거라 생각했고 대부분은 이렇게 창업자가 바로 떠나는 걸 원하지 않아서 더 비싼 가격에 팔 수 없었다고 한다. 어쨌거나 본인은 경제적 자유를 얻으면서 원하는 창작 활동을 할 수 있으니 만족한듯.
 
-## 2013년 이후 프로젝트
+### 2013년 이후 프로젝트
 
 2013년 이후 프로젝트를 보면 Baremetrics를 매각한 2020년까지는 이전처럼
 
@@ -184,7 +184,7 @@ Baremetrics를 매각하며 쓴 글을 읽어보면 사업을 키운 후 운영�
 - FX(Party) (2022) : fx(hash)를 위한 포트폴리오 분석 도구. 운영 중단.
 - DetangleAI (2023) : AI를 활용해 모든 것을 요약해주는 서비스. 현재 베타 서비스 신청 받는 중
 
-# 내 생각
+## 내 생각
 
 개인적인 의견으로는, 나중에는 하기 싫어했지만 결국 가장 많은 돈을 벌어다준 건 꽤 사업의 규모가 커진 baremetrics였다는 게 또 아이러니인 것 같다.
 
@@ -196,7 +196,7 @@ Baremetrics를 매각하며 쓴 글을 읽어보면 사업을 키운 후 운영�
 
 음, 나는 어쩌면 이렇게 정보를 모으고 기록하는 걸 가장 좋아하는지도 모르겠다.
 
-# 참고 문서
+## 참고 문서
 
 - Josh Pigford라는 사람의 정보를 처음 접한 GeekNews 글 : https://news.hada.io/topic?id=6414
 - Josh Pigford를 소개하는 Baremetrics 블로그 게시물 : https://baremetrics.com/founder-chats/josh-pigford
