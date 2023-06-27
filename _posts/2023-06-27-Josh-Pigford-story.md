@@ -68,9 +68,9 @@ Apple 제품 및 기술 리뷰 사이트. 그 당시 상당한 작가들이 활�
 
 SEO + 광고 및 제휴마케팅 사이트. 이후 운영 중단
 
-### [CodePaste.net](http://CodePaste.net) & The File Bin & MyMegaFile & Doinko & 26Faves (2005)
+### CodePaste.net & The File Bin & MyMegaFile & Doinko & 26Faves (2005)
 
-- [CodePaste.net](http://CodePaste.net) : 코드 공유 사이트
+- CodePaste.net : 코드 공유 사이트
 - The File Bin : 파일 공유 및 이미지 호스팅 사이트
 - MyMegaFile : 파일 공유 및 이미지 호스팅 사이트
 - Doinko : 뮤직 비디오 공유 사이트. 그 당시 뮤비 공유 서비스를 만드는 것은 쉽지 않았다고 한다.
@@ -198,9 +198,9 @@ Baremetrics를 매각하며 쓴 글을 읽어보면 사업을 키운 후 운영�
 
 ## 참고 문서
 
-- Josh Pigford라는 사람의 정보를 처음 접한 GeekNews 글 : https://news.hada.io/topic?id=6414
-- Josh Pigford를 소개하는 Baremetrics 블로그 게시물 : https://baremetrics.com/founder-chats/josh-pigford
-- Garrett Dimon의 Josh Pigford 인터뷰 :  https://garrettdimon.com/starting-and-sustaining/interviews/josh-pigford
-- Josh Pigford가 진행한 사이드 프로젝트 목록 : https://joshpigford.com/projects
-- 사이드 프로젝트 2018년 버전. 구글 스프레드시트에 작성되었고 좀 더 자세한 설명이 있음 : https://docs.google.com/spreadsheets/d/1ro4QYK1raqu3pNFMAjP9vSOft-WndIS6nn5q4JU8TPc/edit#gid=0
-- 2020년 Baremetrics 매각 후 Josh Pigford가 작성한 글 : https://baremetrics.com/blog/i-sold-baremetrics
+- Josh Pigford라는 사람의 정보를 처음 접한 GeekNews 글 : [https://news.hada.io/topic?id=6414](https://news.hada.io/topic?id=6414)
+- Josh Pigford를 소개하는 Baremetrics 블로그 게시물 : [https://baremetrics.com/founder-chats/josh-pigford](https://baremetrics.com/founder-chats/josh-pigford)
+- Garrett Dimon의 Josh Pigford 인터뷰 :  [https://garrettdimon.com/starting-and-sustaining/interviews/josh-pigford](https://garrettdimon.com/starting-and-sustaining/interviews/josh-pigford)
+- Josh Pigford가 진행한 사이드 프로젝트 목록 : [https://joshpigford.com/projects](https://joshpigford.com/projects)
+- 사이드 프로젝트 2018년 버전. 구글 스프레드시트에 작성되었고 좀 더 자세한 설명이 있음 : [https://docs.google.com/spreadsheets/d/1ro4QYK1raqu3pNFMAjP9vSOft-WndIS6nn5q4JU8TPc/edit#gid=0](https://docs.google.com/spreadsheets/d/1ro4QYK1raqu3pNFMAjP9vSOft-WndIS6nn5q4JU8TPc/edit#gid=0)
+- 2020년 Baremetrics 매각 후 Josh Pigford가 작성한 글 : [https://baremetrics.com/blog/i-sold-baremetrics](https://baremetrics.com/blog/i-sold-baremetrics)
